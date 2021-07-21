@@ -1,0 +1,14 @@
+asgiref==3.3.4
+beautifulsoup4==4.9.3
+bs4==0.0.1
+certifi==2021.5.30
+charset-normalizer==2.0.2
+Django==3.2.3
+idna==3.2
+psycopg2 @ file:///tmp/build/80754af9/psycopg2_1612298147424/work
+pytz @ file:///tmp/build/80754af9/pytz_1612215392582/work
+requests==2.26.0
+soupsieve==2.2.1
+sqlparse==0.4.1
+typing-extensions @ file:///tmp/build/80754af9/typing_extensions_1624965014186/work
+urllib3==1.26.6
