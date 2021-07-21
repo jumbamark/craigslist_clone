@@ -1,2 +1,2 @@
 # craigslist_clone
-This is a craigslist scraper app
+This is a craigslist scrapper app
