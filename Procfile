@@ -1,1 +1,3 @@
-web: gunicorn craigslist_clone.wsgi
+web: gunicorn craiglist.wsgi:application --log-file - --log-level debug
+python manage.py collectstatic --noinput
+manage.py migrate
